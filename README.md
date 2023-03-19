@@ -1,7 +1,10 @@
 # dialogs.yandex
 
-
+### Панель разработчика
 https://dialogs.yandex.ru/developer/
+
+
+
 
 ***html
 https: //api.telegram.org/bot___ТОКЕН___/setWebhook?url=https://____ПУТЬ_ДО_СКРПИТА___
