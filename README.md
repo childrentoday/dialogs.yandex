@@ -5,6 +5,7 @@ https://dialogs.yandex.ru/developer/
 
 
 
+```php
 
 <?php
     $data = file_get_contents('php://input'); //Получаем тело в виде json
@@ -57,3 +58,4 @@ https://dialogs.yandex.ru/developer/
         exit($response);
     }
 
+```
