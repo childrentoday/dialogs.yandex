@@ -8,8 +8,10 @@ https://dialogs.yandex.ru/developer/
 
 ## 10 Настройка телеграмм бота
 
-***html
-https: //api.telegram.org/bot___ТОКЕН___/setWebhook?url=https://____ПУТЬ_ДО_СКРПИТА___
+***
+
+https://api.telegram.org/bot___ТОКЕН___/setWebhook?url=https://____ПУТЬ_ДО_СКРПИТА___
+
 ***
 
 `___ТОКЕН___` токен ключ от бота
